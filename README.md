@@ -1,1 +1,1 @@
-# djangoblog
+# memopratiques
